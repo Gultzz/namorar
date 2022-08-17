@@ -15,7 +15,7 @@ function trocarLugar(){
 }
 
 function alegrarSe(){
-    window.location.href = 'https://www.kayak.com.br/news/lua-de-mel-no-brasil/';
+    alert('I love you! ❤️')
 }
 
 function parabens(){
